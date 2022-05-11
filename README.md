@@ -1,6 +1,6 @@
 # App Overview
 
-A basic console app built with Typescript
+A basic dictionary console app in TS
 
 # Setup
 
@@ -9,4 +9,8 @@ A basic console app built with Typescript
 # Run
 
 `npm run start`
+
+# Tests
+
+`npm run test`
 
